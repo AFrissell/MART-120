@@ -1,0 +1,23 @@
+div {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: rgb(141, 75, 42);
+    
+}  
+span {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: rgb(32, 12, 2);
+    
+}
+
+ .myClass{
+    font-size: larger;
+    color: firebrick;
+    font-weight: bold;
+    font-style: italic;
+ }
+
+ #myID{
+ font-size: larger;
+    color: rgb(192, 179, 178);
+    font-style: italic;
+}
